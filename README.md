@@ -1,7 +1,6 @@
 # Pop Adrian
 
-<!--
-**PopAdrian1/PopAdrian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Hi there! I'm a coding enthusiast and computer science student passionate about writing code and building applications. Currently exploring Kotlin and working on both personal and team projects.
 
