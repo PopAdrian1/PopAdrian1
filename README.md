@@ -11,7 +11,7 @@ Hi there! I'm a coding enthusiast and computer science student passionate about 
 ## 💼 Work
 [![Website](https://img.shields.io/badge/Website-matyasservcomplex.com-blue?style=for-the-badge)](https://matyasservcomplex.com)
 
-Website pentru o firmă de instalații electrice, sanitare și excavații din Maramureș
+Website for a company specializing in electrical & plumbing installations, septic tanks, and excavations in Maramureș, Romania
 
 
 
